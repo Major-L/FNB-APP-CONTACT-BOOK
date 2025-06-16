@@ -1,1 +1,1 @@
-## This is a contract book i created
+## This is a contact book I created
